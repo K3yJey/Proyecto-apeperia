@@ -13,5 +13,8 @@ Segundo proyecto del Desarrollo FrontEnd para el programa ONE + Alura. Landing P
 ## 📌 Comentarios adicionales
 El proyecto fue hecho a partir del fundamento "mobile first". Y posteriormente se implementó el responsive design para tablet & desktop.
 
+## ▶️ Prueba la Aplicación Web - Github Pages
+* Github Pages => [Proyecto Apeperia](https://k3yjey.github.io/Proyecto-apeperia/)
+
 ## 💻 Contacto
 * Linkedin => [Clic aquí](https://www.linkedin.com/in/k3yjey-dev/)

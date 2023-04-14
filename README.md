@@ -13,5 +13,8 @@ Segundo proyecto del Desarrollo FrontEnd para el programa ONE + Alura. Landing P
 ## 📌 Comentarios adicionales
 El proyecto fue hecho a partir del fundamento "mobile first". Y posteriormente se implementó el responsive design para tablet & desktop.
 
+## 🎨 Diseño en Figma
+* Figma => [Clic aquí](https://www.figma.com/file/InV4SCprrdKMfVfn1wmz7z/WebPage---Appeperia?node-id=0%3A1&t=hiN9BK48rrR8l8Oj-1)
+
 ## 💻 Contacto
 * Linkedin => [Clic aquí](https://www.linkedin.com/in/k3yjey-dev/)

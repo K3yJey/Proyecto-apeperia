@@ -1,7 +1,7 @@
 # Proyecto Apeperia
 ![image](https://cdn.jsdelivr.net/gh/K3yJey/Proyecto-apeperia@main/img/homePage_Apeperia.jpeg)
 
-## Sobre el Repositorio
+## 📦 Sobre el Repositorio
 Segundo proyecto del Desarrollo FrontEnd para el programa ONE + Alura. Landing Page de una página llamada Apeperia, el objetivo era utilizar la propiedad Layouts Responsivos en CSS para organizar esta Landing Page con Responsive Design.
 
 ## ✔️ [El proyecto aquí](https://github.com/K3yJey/Proyecto-apeperia.git)
@@ -12,9 +12,6 @@ Segundo proyecto del Desarrollo FrontEnd para el programa ONE + Alura. Landing P
 
 ## 📌 Comentarios adicionales
 El proyecto fue hecho a partir del fundamento "mobile first". Y posteriormente se implementó el responsive design para tablet & desktop.
-
-## ▶️ Prueba la Aplicación Web - Github Pages
-* Github Pages => [Proyecto Apeperia](https://k3yjey.github.io/webPage-Apeperia/)
 
 ## 💻 Contacto
 * Linkedin => [Clic aquí](https://www.linkedin.com/in/k3yjey-dev/)

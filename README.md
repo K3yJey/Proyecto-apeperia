@@ -1,5 +1,5 @@
 # Proyecto Apeperia
-![image](https://cdn.jsdelivr.net/gh/K3yJey/Proyecto-apeperia@main/img/homePage_Apeperia.jpeg)
+![image](https://cdn.jsdelivr.net/gh/K3yJey/webPage-Apeperia@main/assets/img/homePage_Apeperia.jpeg)
 
 ## 📦 Sobre el Repositorio
 Segundo proyecto del Desarrollo FrontEnd para el programa ONE + Alura. Landing Page de una página llamada Apeperia, el objetivo era utilizar la propiedad Layouts Responsivos en CSS para organizar esta Landing Page con Responsive Design.

@@ -1,12 +1,15 @@
 :root {
+  --montserrat: "Montserrat", sans-serif;
+  --open-sans: "Open Sans", sans-serif;
+
   --background-llamada-mobile: #00161c;
   --background-blanco: #ffffff;
   --background-azul-claro: #dfe3f5;
   --background-ceniza-claro: #f7f4f4;
   --background-ceniza-medio: #d9d9d9;
+  --background-footer: #333333;
 
   --border-cabecera-mobile: #103d4a;
-
   --boton-rojo: #b72e2e;
 
   --fuente-ceniza-claro: #666666;
@@ -17,11 +20,6 @@
   --planes-card-mega: #b00024;
 
   --fuente-enlace: #0006ff;
-
-  --background-footer: #333333;
-
-  --montserrat: "Montserrat", sans-serif;
-  --open-sans: "Open Sans", sans-serif;
 }
 
 body {

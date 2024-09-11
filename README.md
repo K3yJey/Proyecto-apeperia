@@ -1,4 +1,4 @@
-# Apeperia Project
+# Landing Page - Apeperia
 
 ### Description
 
@@ -19,4 +19,4 @@ Project completed.
 
 ### Developer contact
 
-[LinkedIn](https://www.linkedin.com/in/k3yjey-dev/)
+[LinkedIn](https://www.linkedin.com/in/kevinmadrid-dev/)
